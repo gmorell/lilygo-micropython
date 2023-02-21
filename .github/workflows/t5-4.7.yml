@@ -27,4 +27,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: LILYGO_T5-4.7_firmware
-        path: ./bin/esp32/LILYGO_T5-4.7/ 
+        path: ./bin/esp32/LILYGO_T5-4.7/
